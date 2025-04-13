@@ -1,146 +1,74 @@
-# JS & TS Problem Solving
+# JS-TS Problem Solving
 
-This repository contains solutions to various JavaScript and TypeScript coding challenges. Each challenge is implemented in both JavaScript and TypeScript for better understanding and comparison.
-
-## Problems List
-
-### 1. Longest Word
-
-**Description:** Finds the longest word in a given sentence.
-
-**Example:**
-
-```js
-longestWord("The quick brown fox jumps over the lazy dog");
-// Output: "jumps"
-```
+A collection of JavaScript and TypeScript solutions for common coding challenges.  
+This repository is designed to help improve your problem-solving skills and strengthen your understanding of both JS and TS syntax.
 
 ---
 
-### 2. Sum of Digits (Recursively)
+## 📁 Structure
 
-**Description:** Recursively sums the digits of a number until a single digit is obtained.
+Each folder contains:
 
-**Example:**
-
-```js
-sumDigits(987);
-// Output: 6 (9+8+7=24 → 2+4=6)
-```
+- `index.js`: JavaScript solution
+- `index.ts`: TypeScript solution
 
 ---
 
-### 3. First Unique Character
+## 💡 Problem List
 
-**Description:** Finds the first non-repeating character in a word.
+| No. | Problem Name                    | Description                                      |
+| --- | ------------------------------- | ------------------------------------------------ |
+| 01  | Find Longest Word               | Find the longest word in a given sentence.       |
+| 02  | Get Digital Root                | Return the digital root of a number.             |
+| 03  | Find First Unique Character     | Return the first non-repeating character.        |
+| 04  | Group Anagrams                  | Group words that are anagrams.                   |
+| 05  | Count Words                     | Count the number of words in a string.           |
+| 06  | Find Intersection Using Set     | Find the intersection of two arrays using Set.   |
+| 07  | First Duplicate                 | Find the first duplicate in an array.            |
+| 08  | Count Occurrences               | Count occurrences of an element in an array.     |
+| 09  | Track Visits                    | Track the number of visits for each URL.         |
+| 10  | Calculate and Classify Students | Calculate and classify students by grades.       |
+| 11  | Two Sum                         | Find two numbers that add up to a target.        |
+| 12  | Sum Odd Numbers                 | Calculate the sum of all odd numbers in a range. |
+| 13  | Find Most Frequent              | Find the most frequent element in an array.      |
+| 14  | Reverse a Word                  | Reverse the characters in a word.                |
 
-**Example:**
-
-```js
-firstUniqueChar("javascript");
-// Output: "j"
-```
-
----
-
-### 4. Group Anagrams
-
-**Description:** Groups words that are anagrams of each other.
-
-**Example:**
-
-```js
-groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]);
-// Output: [["eat", "tea", "ate"], ["tan", "nat"], ["bat"]]
-```
+> 🔁 More problems will be added regularly!
 
 ---
 
-### 5. Count Words
+## 📌 How to Use
 
-**Description:** Counts the occurrences of each word in a sentence.
+1. Clone the repo:
 
-**Example:**
-
-```js
-countWords("hello world hello");
-// Output: { 'hello': 2, 'world': 1 }
-```
-
----
-
-### 6. Find Intersection using Set
-
-**Description:** Finds the intersection of two arrays using a Set.
-
-**Example:**
-
-```js
-findIntersection([1, 2, 3, 4], [3, 4, 5, 6]);
-// Output: [3, 4]
-```
-
----
-
-### 7. First Duplicate
-
-**Description:** Finds the first duplicate number in an array.
-
-**Example:**
-
-```js
-firstDuplicate([1, 2, 3, 4, 2, 5]);
-// Output: 2
-```
-
----
-
-### 8. Count Occurrences
-
-**Description:** Counts how many times each number appears in an array.
-
-**Example:**
-
-```js
-countOccurrences([1, 2, 2, 3, 3, 3, 4]);
-// Output: { 1: 1, 2: 2, 3: 3, 4: 1 }
-```
-
----
-
-### 9. Track Visits
-
-**Description:** Tracks the number of visits for each unique ID.
-
-**Example:**
-
-```js
-trackVisits([101, 102, 101, 103, 101, 102]);
-// Output: Map { 101 => 3, 102 => 2, 103 => 1 }
-```
-
----
-
-## How to Run
-
-1. Clone the repository:
-   ```sh
+   ```bash
    git clone https://github.com/Mahmoudramadan21/JS-TS-Problem-Solving.git
-   cd js-ts-challenges
-   ```
-2. Run JavaScript files using Node.js:
-   ```sh
-   node filename.js
-   ```
-3. Run TypeScript files:
-   ```sh
-   tsc filename.ts && node filename.js
    ```
 
-## Contributions
+2. Navigate to any challenge folder.
 
-Feel free to submit pull requests if you have improvements or additional challenges to add!
+3. Run the solution:
+   - JS: `node index.js`
+   - TS: Compile first using `tsc index.ts`, then run with `node index.js`
 
 ---
 
-Happy coding! 🚀
+## ✅ Goals
+
+- Improve logic and algorithmic thinking
+- Practice writing clean and readable code
+- Strengthen JS and TS syntax knowledge
+
+---
+
+## 📬 Contributions
+
+Pull requests and feedback are welcome!  
+If you have an idea for a new challenge or a better solution, feel free to open an issue or PR.
+
+---
+
+## 🧑‍💻 Author
+
+**Mahmoud Ramadan**  
+[GitHub Profile](https://github.com/Mahmoudramadan21)
