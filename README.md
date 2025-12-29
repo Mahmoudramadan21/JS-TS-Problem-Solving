@@ -32,7 +32,8 @@ Each folder contains:
 | 12  | Sum Odd Numbers                 | Calculate the sum of all odd numbers in a range. |
 | 13  | Find Most Frequent              | Find the most frequent element in an array.      |
 | 14  | Reverse a Word                  | Reverse the characters in a word.                |
-
+| 15  | Validate Palindrome             | Check if a string is a valid palindrome.         |
+| 16  | Count Vowels                    | Count the number of vowels in a given string.    |
 > 🔁 More problems will be added regularly!
 
 ---
