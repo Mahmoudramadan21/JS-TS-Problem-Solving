@@ -16,24 +16,29 @@ Each folder contains:
 
 ## 💡 Problem List
 
-| No. | Problem Name                    | Description                                      |
-| --- | ------------------------------- | ------------------------------------------------ |
-| 01  | Find Longest Word               | Find the longest word in a given sentence.       |
-| 02  | Get Digital Root                | Return the digital root of a number.             |
-| 03  | Find First Unique Character     | Return the first non-repeating character.        |
-| 04  | Group Anagrams                  | Group words that are anagrams.                   |
-| 05  | Count Words                     | Count the number of words in a string.           |
-| 06  | Find Intersection Using Set     | Find the intersection of two arrays using Set.   |
-| 07  | First Duplicate                 | Find the first duplicate in an array.            |
-| 08  | Count Occurrences               | Count occurrences of an element in an array.     |
-| 09  | Track Visits                    | Track the number of visits for each URL.         |
-| 10  | Calculate and Classify Students | Calculate and classify students by grades.       |
-| 11  | Two Sum                         | Find two numbers that add up to a target.        |
-| 12  | Sum Odd Numbers                 | Calculate the sum of all odd numbers in a range. |
-| 13  | Find Most Frequent              | Find the most frequent element in an array.      |
-| 14  | Reverse a Word                  | Reverse the characters in a word.                |
-| 15  | Validate Palindrome             | Check if a string is a valid palindrome.         |
-| 16  | Count Vowels                    | Count the number of vowels in a given string.    |
+| No. | Problem Name                         | Description                                                    |
+| --- | -------------------------------------| -------------------------------------------------------------- |
+| 01  | Find Longest Word                    | Find the longest word in a given sentence.                     |
+| 02  | Get Digital Root                     | Return the digital root of a number.                           |
+| 03  | Find First Unique Character          | Return the first non-repeating character.                      |
+| 04  | Group Anagrams                       | Group words that are anagrams.                                 |
+| 05  | Count Words                          | Count the number of words in a string.                         |
+| 06  | Find Intersection Using Set          | Find the intersection of two arrays using Set.                 |
+| 07  | First Duplicate                      | Find the first duplicate in an array.                          |
+| 08  | Count Occurrences                    | Count occurrences of an element in an array.                   |
+| 09  | Track Visits                         | Track the number of visits for each URL.                       |
+| 10  | Calculate and Classify Students      | Calculate and classify students by grades.                     |
+| 11  | Two Sum                              | Find two numbers that add up to a target.                      |
+| 12  | Sum Odd Numbers                      | Calculate the sum of all odd numbers in a range.               |
+| 13  | Find Most Frequent                   | Find the most frequent element in an array.                    |
+| 14  | Reverse a Word                       | Reverse the characters in a word.                              |
+| 15  | Validate Palindrome                  | Check if a string is a valid palindrome.                       |
+| 16  | Count Vowels                         | Count the number of vowels in a given string.                  |
+| 17  | Flatten Nested Array                 | Recursively flatten a nested array into a single-level array.  |
+| 18  | Rotate Matrix 90°                    | Rotate a square matrix 90° clockwise.                          |
+| 19  | Remove Duplicates From Array         | Remove duplicate values from an array while preserving order.  |
+| 20  | Count Character Frequency            | Count the frequency of each character in a string.             |
+| 21  | Check If Two Strings Are Anagrams    | Check if two strings are anagrams of each other.               |
 > 🔁 More problems will be added regularly!
 
 ---
